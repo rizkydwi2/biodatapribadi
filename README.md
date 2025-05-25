@@ -15,5 +15,6 @@
     </p>
     <p class="footer">Selesai</p>
 <p><img src="../main/sawer.jpg" alt="Sawer babe"></p>
+    <p><a href="https://www.instagram.com/rzkydwi_r/" target="_blank">Instagram Profile</a></p>
 </body>
 </html>
