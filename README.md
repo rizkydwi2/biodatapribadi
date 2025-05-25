@@ -14,5 +14,6 @@
         fotografi, dan berenang. Saya orangnya pemalu dan suka menganalisis sebelum melakukan sesuatu.Saya mempunyai komedian favorit yang kalo menurut saya komika Greatest of All Time yaitu Babe Cabita. Saya suka gaya penyampaian stand-up nya yang act out dan suka menggebu-gebu, penampilannya saja sudah kocak yang membuat dia cocok menjadi komika, tetapi 1 tahun lalu yang tepatnya 9 april 2024 ia meninggal dunia karena penyakit yang dideritanya yaitu anemia aplastik. Itu saja yang ingin saya sampaikan, semoga tulisan ini menambah wawasan kalian tentang saya, Terima Kasih.
     </p>
     <p class="footer">Selesai</p>
+<p><img src="../main/sawer.jpg" alt="Sawer babe"></p>
 </body>
 </html>
